@@ -1,0 +1,11 @@
+Model Information:
+* title:	Yoshi (Mario Party 10)
+* source:	https://sketchfab.com/3d-models/yoshi-mario-party-10-eda1f06b7ce647f6b2fb9da44216de32
+* author:	Nintega Dario (https://sketchfab.com/nintegaduigi3)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Yoshi (Mario Party 10)" (https://sketchfab.com/3d-models/yoshi-mario-party-10-eda1f06b7ce647f6b2fb9da44216de32) by Nintega Dario (https://sketchfab.com/nintegaduigi3) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
